@@ -1,2 +1,2 @@
-# express-mysql-react-redux
-基于 express + mysql + react +redux 项目实践
+# express-mysql-vue-vuex
+基于 express + mysql + vue +vuex 项目实践
